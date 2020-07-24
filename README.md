@@ -4,8 +4,8 @@ If coding is not for fun, then what is it for? For money? Sure, because not havi
 
 I support diversity in tech and would be glad if I could engage in the activity to support this cause. 🌈👩🏽‍🔬
 
-- 🔭 I’m currently working as a Data Engineer at a financial technology company,
-- 🔭 I was as a Research Associate at an institution where the co-founders won Nobel Prize in Economics in 2019,
+- 🖥 I’m currently working as a Data Engineer at a financial technology company,
+- 📊 I was as a Research Associate at an institution where the co-founders won Nobel Prize in Economics in 2019,
 - 🗣 I speak Indonesian, English, Python (🐍), R, and Stata,
 - 😄 In my native language :indonesia:, it's simple to use a pronoun: "dia" (yes, it's gender neutral!),
 - 📚 Reading for pleasure is something I that I like to do besides writing programs. Visit my [Goodreads](https://www.goodreads.com/user/show/31603929-lukman-edwindra) page.
