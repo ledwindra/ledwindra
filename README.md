@@ -2,9 +2,8 @@
 
 If coding is not for fun, then what is it for? For money? Sure, because not having it can totally be not fun.
 
-- 🖥 I’m currently working as a Data Analyst at a [<strong>logistics-technology company</strong>](https://logisly.com/),
+- 🖥 I’m currently working in tech
 - 📊 I was as
-  - A Data Engineer at a [<strong>financial technology company</strong>](https://www.ovo.id/),
   - A Research Associate at [<strong>an institution</strong>](https://www.povertyactionlab.org/) where the co-founders won [<strong>Nobel Prize in Economics in 2019</strong>](https://www.nobelprize.org/prizes/economic-sciences/2019/press-release/),
 - ♥ Topics that I'm interested in:
   - 👩🏽‍💻 Diversity in tech and would be glad if I could engage in the activity to support this cause. 🌈
